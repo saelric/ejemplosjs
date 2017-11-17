@@ -7,7 +7,7 @@
 // > toFahrenheit(100)
 // 212
 function toFahrenheit (degreesCelsius) {
-  var fa= degreesCelsius * 9 / 5 + 32
+  var fa = degreesCelsius * 9 / 5 + 32
   return fa
 }
 

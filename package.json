@@ -1,6 +1,7 @@
 {
   "name": "my-cool-package",
   "devDependencies": {
+    "mocha": "^4.0.1",
     "standard": "*"
   },
   "scripts": {
